@@ -7,3 +7,5 @@ moovies
 חצר
 שבבניקים
 נס
+git
+python
