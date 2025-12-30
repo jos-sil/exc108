@@ -2,8 +2,12 @@ foods:
 chicken
 meat
 falafel
+soap
+
 
 moovies
 חצר
 שבבניקים
 נס
+chemistry
+
