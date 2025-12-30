@@ -2,6 +2,9 @@ foods:
 chicken
 meat
 falafel
+coffee
+cacaoa
+
 
 moovies
 חצר
